@@ -1,4 +1,4 @@
-<h1>Perform Vulnerability Assessment using Greenbone OpenVas</h1>
+<h1>Performing Vulnerability Assessment using Greenbone OpenVas</h1>
 
  ## [Video Demonstration](https://drive.google.com/file/d/1t1P5AoEIb2tfM5VABZIejeNkPkOkJ59C/view?usp=drive_link)
 
